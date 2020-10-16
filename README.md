@@ -1,2 +1,2 @@
 # assignment2
-# Ther are more methods to do ot
+# Ther are more methods to do
